@@ -1,1 +1,4 @@
-# Andrid-rid-your-device-of-sim-locks
+Welcome 
+install adb 
+run the program 
+Enjoy
